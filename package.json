@@ -1,0 +1,16 @@
+{
+  "name": "deezer-search-quiz-4ahif-jonasreichhardt-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cors-proxy.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  },
+  "scripts": {
+    "build": "tsc index.ts",
+    "init": "tsc --init"
+  },
+  "author": "",
+  "license": "ISC"
+}
